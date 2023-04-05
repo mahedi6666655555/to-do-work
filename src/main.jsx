@@ -18,7 +18,8 @@ import {
 import Home from './components/home/Home';
 import Contact2 from './components/nav/Contact2';
 import About from './components/nav/About';
-import Home2 from './components/nav/Home';
+import Home2 from './components/mainHome/Home';
+
 
 
 
