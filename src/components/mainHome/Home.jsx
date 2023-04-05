@@ -30,8 +30,8 @@ const Home2 = () => {
                         <div className='pl-5 mt-10'>
 
                             <h1 className='text-4xl'>অপেক্ষা বনাম অন্য কিছুর চেষ্টা</h1>
-                            <Link className='hover:text-gray-800' to="https://www.jhankarmahbub.com/motivate/index.html">Motivate yourself</Link>
-
+                            {/* <Link className='hover:text-gray-800' to="">Motivate yourself</Link> */}
+                            <Link to="https://www.jhankarmahbub.com/motivate/index.html" className="link link-primary">Motivate yourself</Link>
                             <Blog></Blog>
                         </div>
 
